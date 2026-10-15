@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+db.sqlite3
+.cache/
+.env
+.idea/
+.vscode/
+
+# Provided OPIS price file: licensed data shared for the assessment, not redistributed here.
+data/fuel-prices-for-be-assessment.csv
